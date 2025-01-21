@@ -1,4 +1,4 @@
-function Input (props) { //agora vaiii
+function Inputs (props) { //agora vaiii
   return (
     <input
     className="border border-slate-300 outline-slate-400 px-4 py-2"
@@ -9,7 +9,7 @@ function Input (props) { //agora vaiii
   );
 }
 
-export default Input;
+export default Inputs;
 
 // Agora podemos trocar nos inputs do AddTask.jsx para o componente Input que criamos
 // basicamente temos um componente classname que recebe as propriedades do input
