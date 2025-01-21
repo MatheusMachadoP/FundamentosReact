@@ -15,4 +15,4 @@ export default Input;
 // basicamente temos um componente classname que recebe as propriedades do input
 // nao é necessario colocar classname no input do AddTask.jsx
 //detalhe que o input é com letra maiuscula, pois é um componente
-// pq normalmente o input é com letra minuscula
+// pq normalmente o input é com letra minusculaa
