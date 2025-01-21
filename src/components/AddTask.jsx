@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Input from "./input";//agora vai
+import Input from "./components/Input"; //agora vaiii
 
 function AddTask({ onAddTaskSubmit }) {
   const [title, setTitle] = useState("");
